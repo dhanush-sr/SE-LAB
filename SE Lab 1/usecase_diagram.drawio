@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Use-Case Diagram">
+    <mxGraphModel dx="1420" dy="900" grid="0" page="1" pageWidth="1420" pageHeight="950" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="boundary" value="Corporate Mental Wellness &amp; Counseling Platform" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;fontSize=15;fontStyle=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="378" y="52" width="664" height="846" as="geometry" />
+        </mxCell>
+        <mxCell id="a0" value="Corporate Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="148" y="240" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a1" value="Licensed Therapist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="148" y="560" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2" value="Wellness Program Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="148" y="770" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a3" value="Corporate Identity Provider" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1238" y="110" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a4" value="Crisis Support Service" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1238" y="320" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a5" value="Notification Service" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1238" y="530" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UC-01" value="UC-01&#10;Create Anonymous Wellness Account" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="408" y="110" width="224" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UC-02" value="UC-02&#10;Take Stress Self-Assessment" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="408" y="215" width="224" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UC-03" value="UC-03&#10;Book Counseling Session" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="408" y="325" width="224" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UC-04" value="UC-04&#10;View Wellness Trend Dashboard" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="408" y="430" width="224" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UC-05" value="UC-05&#10;Manage Availability Calendar" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="408" y="540" width="224" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UC-06" value="UC-06&#10;Record Encrypted Session Notes" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="408" y="645" width="224" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UC-07" value="UC-07&#10;View Aggregate Wellness Report" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="408" y="770" width="224" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UC-13" value="UC-13&#10;Verify Employment Status" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="788" y="110" width="224" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UC-08" value="UC-08&#10;Generate Pseudo-ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="788" y="215" width="224" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UC-09" value="UC-09&#10;Escalate to Crisis Support" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="788" y="320" width="224" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UC-10" value="UC-10&#10;Verify Slot Availability" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="788" y="425" width="224" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UC-11" value="UC-11&#10;Send Confirmation Notification" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="788" y="530" width="224" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UC-12" value="UC-12&#10;Reschedule or Cancel Session" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="788" y="635" width="224" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e0" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1" source="a0" target="UC-01">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1" source="a0" target="UC-02">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1" source="a0" target="UC-03">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1" source="a0" target="UC-04">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1" source="a1" target="UC-03">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1" source="a1" target="UC-05">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1" source="a1" target="UC-06">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1" source="a2" target="UC-07">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1" source="a3" target="UC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1" source="a4" target="UC-09">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1" source="a5" target="UC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11" value="&amp;laquo;include&amp;raquo;" style="endArrow=open;endFill=0;dashed=1;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;fontStyle=2;" edge="1" parent="1" source="UC-01" target="UC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e12" value="&amp;laquo;include&amp;raquo;" style="endArrow=open;endFill=0;dashed=1;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;fontStyle=2;" edge="1" parent="1" source="UC-01" target="UC-08">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e13" value="&amp;laquo;include&amp;raquo;" style="endArrow=open;endFill=0;dashed=1;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;fontStyle=2;" edge="1" parent="1" source="UC-03" target="UC-08">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e14" value="&amp;laquo;include&amp;raquo;" style="endArrow=open;endFill=0;dashed=1;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;fontStyle=2;" edge="1" parent="1" source="UC-03" target="UC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e15" value="&amp;laquo;include&amp;raquo;" style="endArrow=open;endFill=0;dashed=1;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;fontStyle=2;" edge="1" parent="1" source="UC-03" target="UC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e16" value="&amp;laquo;extend&amp;raquo;" style="endArrow=open;endFill=0;dashed=1;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;fontStyle=2;" edge="1" parent="1" source="UC-09" target="UC-02">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e17" value="&amp;laquo;extend&amp;raquo;" style="endArrow=open;endFill=0;dashed=1;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;fontStyle=2;" edge="1" parent="1" source="UC-12" target="UC-03">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

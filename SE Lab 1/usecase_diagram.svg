@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="950" viewBox="0 0 1420 950">
+<style>
+  text { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; text-anchor: middle; }
+  .uc { fill:#ffffff; stroke:#000000; stroke-width:1.5; }
+  .uid { font-size:11px; fill:#000000; font-weight:bold; letter-spacing:.5px; }
+  .ul { font-size:12.5px; fill:#000000; }
+  .al { font-size:12.5px; fill:#000000; font-weight:bold; }
+  .actor circle, .actor line { fill:none; stroke:#000000; stroke-width:1.8; }
+  .assoc { stroke:#000000; stroke-width:1.2; fill:none; }
+  .dep { stroke:#000000; stroke-width:1.2; fill:none; stroke-dasharray:7 5; }
+  .stereo { font-size:11px; fill:#000000; font-style:italic; }
+  .boundary { fill:none; stroke:#000000; stroke-width:1.5; }
+  .btitle { font-size:15px; fill:#000000; font-weight:bold; }
+  .caption { font-size:12px; fill:#000000; }
+</style>
+<defs>
+  <marker id="open" markerWidth="12" markerHeight="12" refX="10" refY="5" orient="auto">
+    <path d="M1,1 L10,5 L1,9" fill="none" stroke="#000000" stroke-width="1.4"/>
+  </marker>
+</defs>
+<rect x="378" y="52" width="664" height="846" class="boundary" rx="4"/>
+<text x="710.0" y="78" class="btitle">Corporate Mental Wellness &amp; Counseling Platform</text>
+<line x1="202.0" y1="280.0" x2="442.1" y2="178.8" class="assoc"/>
+<line x1="202.0" y1="280.0" x2="410.2" y2="262.8" class="assoc"/>
+<line x1="202.0" y1="280.0" x2="427.2" y2="342.6" class="assoc"/>
+<line x1="202.0" y1="280.0" x2="458.2" y2="436.6" class="assoc"/>
+<line x1="202.0" y1="600.0" x2="467.2" y2="400.3" class="assoc"/>
+<line x1="202.0" y1="600.0" x2="409.4" y2="586.3" class="assoc"/>
+<line x1="202.0" y1="600.0" x2="427.2" y2="662.6" class="assoc"/>
+<line x1="202.0" y1="810.0" x2="408.0" y2="810.0" class="assoc"/>
+<line x1="1224.0" y1="150.0" x2="1012.0" y2="150.0" class="assoc"/>
+<line x1="1224.0" y1="360.0" x2="1012.0" y2="360.0" class="assoc"/>
+<line x1="1224.0" y1="570.0" x2="1012.0" y2="570.0" class="assoc"/>
+<line x1="632.0" y1="150.0" x2="788.0" y2="150.0" class="dep" marker-end="url(#open)"/>
+<rect x="676.0" y="141.0" width="68" height="15" fill="#ffffff"/>
+<text x="710.0" y="153.0" class="stereo">&#171;include&#187;</text>
+<line x1="608.6" y1="174.5" x2="811.4" y2="230.5" class="dep" marker-end="url(#open)"/>
+<rect x="676.0" y="193.5" width="68" height="15" fill="#ffffff"/>
+<text x="710.0" y="205.5" class="stereo">&#171;include&#187;</text>
+<line x1="607.0" y1="339.8" x2="813.0" y2="280.2" class="dep" marker-end="url(#open)"/>
+<rect x="737.8" y="283.1" width="68" height="15" fill="#ffffff"/>
+<text x="771.8" y="295.1" class="stereo">&#171;include&#187;</text>
+<line x1="610.2" y1="388.7" x2="809.8" y2="441.3" class="dep" marker-end="url(#open)"/>
+<rect x="676.0" y="406.0" width="68" height="15" fill="#ffffff"/>
+<text x="710.0" y="418.0" class="stereo">&#171;include&#187;</text>
+<line x1="581.8" y1="398.4" x2="838.2" y2="536.6" class="dep" marker-end="url(#open)"/>
+<rect x="676.0" y="458.5" width="68" height="15" fill="#ffffff"/>
+<text x="710.0" y="470.5" class="stereo">&#171;include&#187;</text>
+<line x1="811.4" y1="335.5" x2="608.6" y2="279.5" class="dep" marker-end="url(#open)"/>
+<rect x="635.4" y="287.3" width="68" height="15" fill="#ffffff"/>
+<text x="669.4" y="299.3" class="stereo">&#171;extend&#187;</text>
+<line x1="855.1" y1="638.4" x2="564.9" y2="401.6" class="dep" marker-end="url(#open)"/>
+<rect x="676.0" y="511.0" width="68" height="15" fill="#ffffff"/>
+<text x="710.0" y="523.0" class="stereo">&#171;extend&#187;</text>
+<g class="actor">
+    <circle cx="168" cy="246" r="13"/>
+    <line x1="168" y1="259" x2="168" y2="292"/>
+    <line x1="146" y1="272" x2="190" y2="272"/>
+    <line x1="168" y1="292" x2="150" y2="322"/>
+    <line x1="168" y1="292" x2="186" y2="322"/>
+  </g><text x="168" y="342" class="al">Corporate</text><text x="168" y="359" class="al">Employee</text>
+<g class="actor">
+    <circle cx="168" cy="566" r="13"/>
+    <line x1="168" y1="579" x2="168" y2="612"/>
+    <line x1="146" y1="592" x2="190" y2="592"/>
+    <line x1="168" y1="612" x2="150" y2="642"/>
+    <line x1="168" y1="612" x2="186" y2="642"/>
+  </g><text x="168" y="662" class="al">Licensed</text><text x="168" y="679" class="al">Therapist</text>
+<g class="actor">
+    <circle cx="168" cy="776" r="13"/>
+    <line x1="168" y1="789" x2="168" y2="822"/>
+    <line x1="146" y1="802" x2="190" y2="802"/>
+    <line x1="168" y1="822" x2="150" y2="852"/>
+    <line x1="168" y1="822" x2="186" y2="852"/>
+  </g><text x="168" y="872" class="al">Wellness Program</text><text x="168" y="889" class="al">Administrator</text>
+<g class="actor">
+    <circle cx="1258" cy="116" r="13"/>
+    <line x1="1258" y1="129" x2="1258" y2="162"/>
+    <line x1="1236" y1="142" x2="1280" y2="142"/>
+    <line x1="1258" y1="162" x2="1240" y2="192"/>
+    <line x1="1258" y1="162" x2="1276" y2="192"/>
+  </g><text x="1258" y="212" class="al">Corporate Identity</text><text x="1258" y="229" class="al">Provider</text>
+<g class="actor">
+    <circle cx="1258" cy="326" r="13"/>
+    <line x1="1258" y1="339" x2="1258" y2="372"/>
+    <line x1="1236" y1="352" x2="1280" y2="352"/>
+    <line x1="1258" y1="372" x2="1240" y2="402"/>
+    <line x1="1258" y1="372" x2="1276" y2="402"/>
+  </g><text x="1258" y="422" class="al">Crisis Support</text><text x="1258" y="439" class="al">Service</text>
+<g class="actor">
+    <circle cx="1258" cy="536" r="13"/>
+    <line x1="1258" y1="549" x2="1258" y2="582"/>
+    <line x1="1236" y1="562" x2="1280" y2="562"/>
+    <line x1="1258" y1="582" x2="1240" y2="612"/>
+    <line x1="1258" y1="582" x2="1276" y2="612"/>
+  </g><text x="1258" y="632" class="al">Notification</text><text x="1258" y="649" class="al">Service</text>
+<ellipse cx="520" cy="150" rx="112" ry="40" class="uc"/><text x="520" y="124" class="uid">UC-01</text><text x="520" y="138" class="ul">Create Anonymous</text><text x="520" y="154" class="ul">Wellness Account</text>
+<ellipse cx="520" cy="255" rx="112" ry="40" class="uc"/><text x="520" y="229" class="uid">UC-02</text><text x="520" y="243" class="ul">Take Stress</text><text x="520" y="259" class="ul">Self-Assessment</text>
+<ellipse cx="520" cy="365" rx="112" ry="40" class="uc"/><text x="520" y="339" class="uid">UC-03</text><text x="520" y="353" class="ul">Book Counseling</text><text x="520" y="369" class="ul">Session</text>
+<ellipse cx="520" cy="470" rx="112" ry="40" class="uc"/><text x="520" y="444" class="uid">UC-04</text><text x="520" y="458" class="ul">View Wellness</text><text x="520" y="474" class="ul">Trend Dashboard</text>
+<ellipse cx="520" cy="580" rx="112" ry="40" class="uc"/><text x="520" y="554" class="uid">UC-05</text><text x="520" y="568" class="ul">Manage Availability</text><text x="520" y="584" class="ul">Calendar</text>
+<ellipse cx="520" cy="685" rx="112" ry="40" class="uc"/><text x="520" y="659" class="uid">UC-06</text><text x="520" y="673" class="ul">Record Encrypted</text><text x="520" y="689" class="ul">Session Notes</text>
+<ellipse cx="520" cy="810" rx="112" ry="40" class="uc"/><text x="520" y="784" class="uid">UC-07</text><text x="520" y="798" class="ul">View Aggregate</text><text x="520" y="814" class="ul">Wellness Report</text>
+<ellipse cx="900" cy="150" rx="112" ry="40" class="uc"/><text x="900" y="124" class="uid">UC-13</text><text x="900" y="138" class="ul">Verify Employment</text><text x="900" y="154" class="ul">Status</text>
+<ellipse cx="900" cy="255" rx="112" ry="40" class="uc"/><text x="900" y="229" class="uid">UC-08</text><text x="900" y="243" class="ul">Generate</text><text x="900" y="259" class="ul">Pseudo-ID</text>
+<ellipse cx="900" cy="360" rx="112" ry="40" class="uc"/><text x="900" y="334" class="uid">UC-09</text><text x="900" y="348" class="ul">Escalate to</text><text x="900" y="364" class="ul">Crisis Support</text>
+<ellipse cx="900" cy="465" rx="112" ry="40" class="uc"/><text x="900" y="439" class="uid">UC-10</text><text x="900" y="453" class="ul">Verify Slot</text><text x="900" y="469" class="ul">Availability</text>
+<ellipse cx="900" cy="570" rx="112" ry="40" class="uc"/><text x="900" y="544" class="uid">UC-11</text><text x="900" y="558" class="ul">Send Confirmation</text><text x="900" y="574" class="ul">Notification</text>
+<ellipse cx="900" cy="675" rx="112" ry="40" class="uc"/><text x="900" y="649" class="uid">UC-12</text><text x="900" y="663" class="ul">Reschedule or</text><text x="900" y="679" class="ul">Cancel Session</text>
+<text x="710.0" y="936" class="caption">Lab 1 - Use-Case Diagram - Problem Statement #14 - Corporate Mental Wellness &amp; Counseling Platform</text>
+</svg>
